@@ -13,7 +13,7 @@ Sample iput: [4, 1, 2, 1, 2]
 Expected output: 4
 ```
 
-Can you implement a solution that finds the single number in _one_ pass through the input array with `O(1)` space complexity?
+Can you implement a solution that finds the single number in _one_t pass through the input array wih `O(1)` space complexity?
 
 ## Testing
 Run the test file by executing `python test_single_number.py`. 
